@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mujoco>
+<compiler meshdir="assets"/>
+  <asset>
+    <mesh file="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__2.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__3.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__4.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__5.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__6.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__7.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__8.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__10.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__11.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__12.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__2.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__3.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__4.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__5.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__6.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__7.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__8.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__9.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____600mm_mei_hua_zhuang__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____600mm_mei_hua_zhuang__2.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____600mm_mei_hua_zhuang__3.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____600mm_mei_hua_zhuang__4.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____r1_qi_dong_qu___hong__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____r1_qi_dong_qu___hong__2.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____r1_qi_dong_qu___lan__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____r1_qi_dong_qu___lan__2.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____r2_qi_dong_qu___hong__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei____r2_qi_dong_qu___lan__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____yi_qu___hong__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____yi_qu___lan__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____san_qu___hong__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____san_qu___lan__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____er_qu___hong__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____er_qu___lan__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__10.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__11.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__12.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__13.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__14.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__15.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__16.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__17.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__18.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__19.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__2.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__20.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__21.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__22.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__23.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__24.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__25.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__26.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__27.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__28.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__29.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__3.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__30.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__31.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__32.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__33.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__34.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__35.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__36.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__37.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__38.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__39.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__4.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__40.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__41.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__42.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__43.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__44.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__45.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__46.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__47.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__48.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__49.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__5.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__50.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__51.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__52.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__53.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__54.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__55.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__56.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__57.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__58.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__59.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__6.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__60.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__7.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__8.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__9.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___di_zuo__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__2.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__3.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__4.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__5.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__6.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__7.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__8.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__9.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang_wai_jiao_dai__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang_wai_jiao_dai__2.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____ya_ke_li_dang_ban__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____yin_dao_xian__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____xie_po__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____xie_po__2.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____qiang_tou_jia__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____zha_lan__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____wu_qi_cun_fang_qu__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____wu_qi_cun_fang_qu__2.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____zhang_gun_jia__1.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____zhang_gun_jia__2.stl"/>
+    <mesh file="2026_chang_di_zong_zhuang_pei_____gao_tai_zha_lan__1.stl"/>
+  </asset>
+
+  <default>
+  <default class="field_default">
+  <geom contype="0" conaffinity="0"/>
+  </default>
+  </default>
+
+  <worldbody>
+  <body name="field_body" pos="0 0 0">
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__1" mass="0.0001" class="field_default" rgba="0.161 0.322 0.062 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__2" mass="0.0001" class="field_default" rgba="0.161 0.322 0.062 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__3" mass="0.0001" class="field_default" rgba="0.161 0.322 0.062 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__4" mass="0.0001" class="field_default" rgba="0.161 0.322 0.062 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__5" mass="0.0001" class="field_default" rgba="0.161 0.322 0.062 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__6" mass="0.0001" class="field_default" rgba="0.161 0.322 0.062 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__7" mass="0.0001" class="field_default" rgba="0.161 0.322 0.062 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____200mm_mei_hua_zhuang__8" mass="0.0001" class="field_default" rgba="0.161 0.322 0.062 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__1" mass="0.0001" class="field_default" rgba= "0.164 0.443 0.219 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__10" mass="0.0001" class="field_default" rgba="0.164 0.443 0.219 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__11" mass="0.0001" class="field_default" rgba="0.164 0.443 0.219 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__12" mass="0.0001" class="field_default" rgba="0.164 0.443 0.219 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__2" mass="0.0001" class="field_default" rgba= "0.164 0.443 0.219 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__3" mass="0.0001" class="field_default" rgba= "0.164 0.443 0.219 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__4" mass="0.0001" class="field_default" rgba= "0.164 0.443 0.219 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__5" mass="0.0001" class="field_default" rgba= "0.164 0.443 0.219 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__6" mass="0.0001" class="field_default" rgba= "0.164 0.443 0.219 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__7" mass="0.0001" class="field_default" rgba= "0.164 0.443 0.219 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__8" mass="0.0001" class="field_default" rgba= "0.164 0.443 0.219 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____400mm_mei_hua_zhuang__9" mass="0.0001" class="field_default" rgba= "0.164 0.443 0.219 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____600mm_mei_hua_zhuang__1" mass="0.0001" class="field_default" rgba="0.596 0.651 0.318 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____600mm_mei_hua_zhuang__2" mass="0.0001" class="field_default" rgba="0.596 0.651 0.318 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____600mm_mei_hua_zhuang__3" mass="0.0001" class="field_default" rgba="0.596 0.651 0.318 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____600mm_mei_hua_zhuang__4" mass="0.0001" class="field_default" rgba="0.596 0.651 0.318 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____r1_qi_dong_qu___hong__1" mass="0.0001" class="field_default" rgba="0.874 0.133 0.133 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____r1_qi_dong_qu___hong__2" mass="0.0001" class="field_default" rgba="0.874 0.133 0.133 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____r1_qi_dong_qu___lan__1" mass="0.0001" class="field_default" rgba="0.196 0 1.0 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____r1_qi_dong_qu___lan__2" mass="0.0001" class="field_default" rgba="0.196 0 1.0 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____r2_qi_dong_qu___hong__1" mass="0.0001" class="field_default" rgba="0.874 0.133 0.133 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei____r2_qi_dong_qu___lan__1" mass="0.0001" class="field_default" rgba="0.196 0 1.0 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____yi_qu___hong__1" mass="0.0001" class="field_default" rgba="0.980 0.862 0.855 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____yi_qu___lan__1" mass="0.0001" class="field_default" rgba="0.502 0.780 0.886 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____san_qu___hong__1" mass="0.0001" class="field_default" rgba="0.980 0.862 0.855 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____san_qu___lan__1" mass="0.0001" class="field_default" rgba="0.502 0.780 0.886 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____er_qu___hong__1" mass="0.0001" class="field_default" rgba="0.925 0.635 0.592 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____er_qu___lan__1" mass="0.0001" class="field_default" rgba="0.459 0.686 0.749 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__1" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__10" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__11" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__12" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__13" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__14" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__15" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__16" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__17" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__18" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__19" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__2" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__20" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__21" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__22" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__23" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__24" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__25" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__26" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__27" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__28" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__29" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__3" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__30" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__31" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__32" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__33" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__34" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__35" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__36" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__37" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__38" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__39" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__4" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__40" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__41" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__42" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__43" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__44" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__45" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__46" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__47" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__48" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__49" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__5" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__50" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__51" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__52" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__53" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__54" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__55" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__56" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__57" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__58" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__59" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__6" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__60" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__7" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__8" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___gu_ding_luo_shuan__9" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___di_zuo__1" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__1" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__2" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__3" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__4" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__5" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__6" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__7" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__8" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang__9" mass="0.0001" class="field_default" rgba= "1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang_wai_jiao_dai__1" mass="0.0001" class="field_default" rgba="0 0 0 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____jing_zi_qi_jia__1__jing_zi_qi_jia___kuang_wai_jiao_dai__2" mass="0.0001" class="field_default" rgba="0 0 0 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____ya_ke_li_dang_ban__1" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 0.1"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____yin_dao_xian__1" mass="0.0001" class="field_default" rgba="1.0 1.0 1.0 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____xie_po__1" mass="0.0001" class="field_default" rgba="0.753 0.741 0.713 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____xie_po__2" mass="0.0001" class="field_default" rgba="0.753 0.741 0.713 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____qiang_tou_jia__1" mass="0.0001" class="field_default" rgba="0.607 0.372 0.0 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____zha_lan__1" mass="0.0001" class="field_default" rgba="0.607 0.372 0.0 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____wu_qi_cun_fang_qu__1" mass="0.0001" class="field_default" rgba="1.0 1.0 0 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____wu_qi_cun_fang_qu__2" mass="0.0001" class="field_default" rgba="1.0 1.0 0 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____zhang_gun_jia__1" mass="0.0001" class="field_default" rgba="0.607 0.372 0.0 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____zhang_gun_jia__2" mass="0.0001" class="field_default" rgba="0.607 0.372 0.0 1.0"/>
+    <geom type="mesh" mesh="2026_chang_di_zong_zhuang_pei_____gao_tai_zha_lan__1" mass="0.0001" class="field_default" rgba="0.607 0.372 0.0 1.0"/>
+  </body>
+  </worldbody>
+</mujoco>
